@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/iqraa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/iqraa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/iqraa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alhadithalnawawiforty-master/alhadithalnawawiforty-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alhadithalnawawiforty-master/alhadithalnawawiforty-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alhadithalnawawiforty-master/alhadithalnawawiforty-master/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
