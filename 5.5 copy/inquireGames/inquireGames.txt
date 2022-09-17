@@ -1,0 +1,49 @@
+splash screen.
+
+home page.
+
+questions page.
+
+drower.
+
+----------
+
+It's possible that we'll have to utilize it:
+
+1- shared pref
+
+2- auto scroll view
+
+3- audio players (music)
+
+4- model viewer (for gld)
+
+5- getx (get)
+
+6- photoshop
+
+7- create widgets
+
+8- define array and array list
+
+9- ads
+
+10- timer
+
+11- futrue delayed
+
+12- spread operator
+
+13- define image and audio files and pubspec.yaml
+
+14- MediaQuery 
+
+15- Review logic (nisted loop, for loop etc..
+
+16- const and key for performance
+
+17- share app
+
+18- 
+
+------------- for the main time.
