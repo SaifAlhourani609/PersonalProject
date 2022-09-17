@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sugari/sugari/BuildConfig.java
+ com.sugari.sugari.BuildConfig
