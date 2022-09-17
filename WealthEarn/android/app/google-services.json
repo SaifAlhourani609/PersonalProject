@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511053701447",
+    "project_id": "wealth-earn",
+    "storage_bucket": "wealth-earn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511053701447:android:74cffdfd1953b05411ac62",
+        "android_client_info": {
+          "package_name": "com.wealth_earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511053701447-gs1gsqf7g7pbdc6in634btce32bd04f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wRuYMpOSkHLdsDviJDAJywM1MEs1ONw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511053701447-gs1gsqf7g7pbdc6in634btce32bd04f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
